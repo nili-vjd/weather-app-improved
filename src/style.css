@@ -15,7 +15,7 @@ body {
 
 .btn {
   position: relative;
-  right: -100px;
+  right: -200px;
 }
 a {
   text-decoration: none;
@@ -41,12 +41,12 @@ ul {
 }
 .float-right {
   position: relative;
-  right: -390px;
+  right: -400px;
   top: -110px;
 }
 .float-beside {
   position: relative;
-  right: -500px;
+  right: -510px;
   top: -60px;
 }
 
